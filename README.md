@@ -1,3 +1,4 @@
-# shresthachaudhuri
+# stack
+
 <br>
 prog on stack
