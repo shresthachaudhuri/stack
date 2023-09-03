@@ -1,4 +1,4 @@
 # stack
 
 <br>
-prog on stack
+prog on stack ok
